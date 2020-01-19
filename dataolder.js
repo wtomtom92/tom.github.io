@@ -1,3 +1,4 @@
+
 function cuc(){
    var linkuc=document.getElementsByTagName("A");
    
